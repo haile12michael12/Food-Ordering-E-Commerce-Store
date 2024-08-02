@@ -13,7 +13,7 @@
         if (!defined('HOST')) define("HOST", "localhost");
 
         //dbname
-        if (!defined('DBNAME')) define("DBNAME", "food_ordering");
+        if (!defined('DBNAME')) define("DBNAME", "freshcery");
 
         //user
         if (!defined('USER')) define("USER", "root");
