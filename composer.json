@@ -1,0 +1,15 @@
+{
+    "name": "michael/food-ordering-e-commerce-store",
+    "autoload": {
+        "psr-4": {
+            "Michael\\FoodOrderingECommerceStore\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "haile12michael12",
+            "email": "michaelhaile12@yahoo.com"
+        }
+    ],
+    "require": {}
+}
